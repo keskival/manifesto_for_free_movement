@@ -1,6 +1,6 @@
 ## Manifesto for a Borderless World
 
-This is meant to be a living, collaborative document. Please take part through adding and discussing issues or by pull requests.
+This is meant to be a living, collaborative document. Please take part through adding or taking part in Discussions or by pull requests. I will add co-conspirators to the project per request. Wiki is free to edit by all with GitHub accounts.
 
 ### Citizenship in the 21st Century
 
