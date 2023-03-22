@@ -31,3 +31,7 @@ Real-time translation and multinational, globally interconnected business has ma
 Borders prevent free movement of people and cause people being prevented from self-actualization where they would best be able to do that. This causes artificial inequalities and creates unnecessary tensions between countries, causing conflicts and wars. We need to dilute borders by allowing free movement of people, which will be of social and economic net benefit for all, and also effects a great force for peace in the world.
 
 We are all citizens of the world and we should understand and govern our pale blue dot through that lens.
+
+## Repository
+
+- [https://github.com/keskival/manifesto_for_free_movement](https://github.com/keskival/manifesto_for_free_movement)
